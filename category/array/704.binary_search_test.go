@@ -1,8 +1,9 @@
 package array_test
 
 import (
-	"github.com/stretchr/testify/suite"
 	"testing"
+
+	"github.com/stretchr/testify/suite"
 
 	"github.com/chensylz/leetcode/category/array"
 )
