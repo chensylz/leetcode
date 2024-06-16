@@ -10,3 +10,4 @@
 
 ## 链表
 ### 1. [203.移除链表元素](./category/linkedlist/203.remove-linked-list-elements.go)
+使用虚假头指针来防止头指针是空的情况
