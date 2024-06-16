@@ -11,3 +11,5 @@
 ## 链表
 ### 1. [203.移除链表元素](./category/linkedlist/203.remove-linked-list-elements.go)
 使用虚假头指针来防止头指针是空的情况
+### 2. [206.翻转链表](./category/linkedlist/206.reverse-linked-list.go)
+### 3. [24.两两交换链表中的节点](./category/linkedlist/24.swap-nodes-in-pairs.go)
