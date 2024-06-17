@@ -13,3 +13,4 @@
 使用虚假头指针来防止头指针是空的情况
 ### 2. [206.翻转链表](./category/linkedlist/206.reverse-linked-list.go)
 ### 3. [24.两两交换链表中的节点](./category/linkedlist/24.swap-nodes-in-pairs.go)
+### 4. [19.删除链表的倒数第N个节点](./category/linkedlist/19.remove-nth-node-from-end-of-list.go)
