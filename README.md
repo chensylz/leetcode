@@ -15,3 +15,7 @@
 ### 3. [24.两两交换链表中的节点](./category/linkedlist/24.swap-nodes-in-pairs.go)
 ### 4. [19.删除链表的倒数第N个节点](./category/linkedlist/19.remove-nth-node-from-end-of-list.go)
 ### 5. [160.相交链表](./category/linkedlist/160.intersection-of-two-linked-lists-lcci.go)
+
+
+## 哈希表
+### 1. [242.有效的字母异位词](./category/hash/242.valid-anagram.go]
