@@ -1,8 +1,9 @@
 package hash_test
 
 import (
-	"github.com/chensylz/leetcode/category/hash"
 	"testing"
+
+	"github.com/chensylz/leetcode/category/hash"
 
 	"github.com/stretchr/testify/suite"
 )
