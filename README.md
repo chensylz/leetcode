@@ -18,7 +18,7 @@
 
 
 ## 哈希表
-### 1. [242.有效的字母异位词](./category/hash/242.valid-anagram.go]
-### 2. [349.两个数组的交集](./category/hash/349.intersection-of-two-arrays.go]
-### 3. [202.快乐数] (./category/hash/202.happy-number.go)
+### 1. [242.有效的字母异位词](./category/hash/242.valid-anagram.go)
+### 2. [349.两个数组的交集](./category/hash/349.intersection-of-two-arrays.go)
+### 3. [202.快乐数](./category/hash/202.happy-number.go)
 ### 4. [1.两数之和](./category/hash/01.two-sum.go)
