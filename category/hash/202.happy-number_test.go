@@ -1,9 +1,11 @@
 package hash_test
 
 import (
-	"github.com/chensylz/leetcode/category/hash"
-	"github.com/stretchr/testify/suite"
 	"testing"
+
+	"github.com/stretchr/testify/suite"
+
+	"github.com/chensylz/leetcode/category/hash"
 )
 
 type IsHappyData struct {
